@@ -53,7 +53,7 @@
 - `[^abc]`: Not a, b or c
 - `[a-z]`: Letters from a to z
 - `[A-Z]`: Uppercase letters from A to Z
-- `[0-9]`: Digits from 0 to 9
+- `[0-9]`: Digits from 0 to 9 # only one digit from 0 to 9
 
 > Note: Ranges are inclusive.
 
@@ -61,7 +61,7 @@
 ## Quantifiers
 
 - `*`: 0 or more
-- `+`: 1 or more
+- `+`: at least 1 or more
 - `?`: 0 or 1
 - `{3}`: Exactly 3
 - `{3,}`: 3 or more
